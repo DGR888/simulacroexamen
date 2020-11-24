@@ -1,18 +1,35 @@
+    #MI REPO MOLA CON SUS TXT
+   
     1  ls
+    
     2  cd desktop
+    
     3  git init
+    
     4  git clone https://github.com/DGR888/simulacroexamen.git
+    
     5  git config --global user.mail fiechu1002@gmail.com
+    
     6  git add -A uno.txt
+    
     7  ls
+    
     8  cd simulacroexamen
+    
     9  git add -A uno.txt
+    
    10  git commit - m
+   
    11  git commit -m
+   
    12  git commit
+   
    13  git config --global fiechu1002@gmail.com
+   
    14  cd desktop
+   
    15  git config --global user.mail fiechu1002@gmail.com
+   
    16  git clone https://github.com/DGR888/simulacroexamen.git
    17  cd simulacroexamen
    18  git status
@@ -30,6 +47,7 @@
    30  git add -A tres.txt
    31  git commit -m archivotres
    32  git status
+   
    33  git tag txtMola
    34  git status
    35  git log
