@@ -1,6 +1,6 @@
 # Mi repo mola
 
-    1  ls
+   `` 1  ls
     
     2  cd desktop
     
@@ -135,5 +135,5 @@
    
    68  git push --set-upstream origin rama1
    
-   69  history
+   69  history``
 
