@@ -120,8 +120,7 @@
    60  git push
    
    61  git push --set-upstream origin rama1
-   
-   62  HuevoKinder2009
+ 
    
    63  q
    
